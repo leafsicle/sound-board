@@ -1,28 +1,140 @@
 {
-  "adventure": {
-    "title": "Adventure Sounds",
-    "sounds": [
-      {
-        "thumb": "https://steamcdn-a.akamaihd.net/steam/apps/227380/ss_31e31466cde2471cfd9cc32273b320793057c389.1920x1080.jpg?t=1499966366",
-        "sound": "adventure/adventure"
-      },
-      {
-        "thumb": "https://steamcdn-a.akamaihd.net/steam/apps/227380/ss_3fe66d76d8eb9e2ce1b91439a83328d67346df09.600x338.jpg?t=1499966366",
-        "sound": "adventure/bye"
-      }
-    ]
-  },
-  "weird": {
-    "title": "The most normal thing ever",
-    "sounds": [
-      {
-        "thumb": "http://picsum.photos/200/200?random",
-        "sound": "Creepy_Laugh-Adam_Webb-235643261"
-      },
-      {
-        "thumb": "https://stevensegallery.com/200/300",
-        "sound": "a73db5_Velociraptor_Scream_Sound_Effect"
-      }
-    ]
-  }
+	"adventure": {
+		"title": "noise",
+		"sounds": [
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			},
+			{
+				"thumb": "",
+				"sound": ""
+			}
+		]
+	},
+	"weird": {
+		"title": "The most normal thing ever",
+		"sounds": [
+			{
+				"thumb": "",
+				"sound": "iconic/a73db5_Velociraptor_Scream_Sound_Effect"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/boxing-bell"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/DGKS"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/fresh-avocado-vine"
+			},
+			{
+				"thumb": "http://picsum.photos/200/200?random",
+				"sound": "iconic/williams"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/he-needs-some-milk-vine"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/community-intro"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/i-like-turtles"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/it-doesnt-matter-what-you-think-0m-02s"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/jeopardy"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/kobe"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/mlg-airhorn"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/null-you_must_construct_additional_pylons"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/ps3-trophy-sound-effect"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/record-scratch"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/ric-flair-titantron-hd-with-download-link-1"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/Roadrunner  beepbeep"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/run-vine-sound-effect"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/skype"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/thanksgivingrap"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/That is one big pile"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/wilhelmscream"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/wubba-lubba-dub-dub"
+			},
+			{
+				"thumb": "",
+				"sound": "iconic/You are a sad strange little man"
+			}
+		]
+	}
 }
