@@ -20,7 +20,7 @@ body {
 }
 
 #root {
-  // height: 100vh;
+//  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -51,15 +51,6 @@ $bg: #333;
 $push-color: hsla(10, 90%, 40%, 1);
 
 $push-size: 240px;
-
-body {
-  margin: 1em;
-  background:  #333;
-  color: #ccc;
-  font: normal 3vw/1 'Montserrat', sans-serif;;
-  text-align: center;
-  text-transform: uppercase;
-}
 
 [class*="push"] {
   position: relative;
