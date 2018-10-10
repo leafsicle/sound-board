@@ -16,9 +16,9 @@ class SoundButton extends Component {
 	render() {
 		return (
 			<div
-				className="sound-button"
+				className="button"
 				onClick={this.playSound}
-				style={{ backgroundImage: `url(${this.props.thumb})` }}
+				// style={{ backgroundImage: `url(${this.props.thumb})` }}
 			>
 				<button
 					class="push--flat"
