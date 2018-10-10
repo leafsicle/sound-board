@@ -1,6 +1,6 @@
 {
-	"adventure": {
-		"title": "It's about to get weird",
+	"dumbnoises": {
+		"title": "Spencer's Noises",
 		"sounds": [
 			{
 				"thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4qE_br98bR5Yda-wCjs_hQ-rd5kdpDdaQ-S3dlK8HzSDjP0y",
@@ -103,6 +103,27 @@
 			{
 				"thumb": "https://res.cloudinary.com/teepublic/image/private/s--OqR_ADIk--/t_Preview/b_rgb:5e366e,c_limit,f_jpg,h_630,q_90,w_630/v1505354573/production/designs/1893480_1.jpg",
 				"sound": "iconic/You are a sad strange little man"
+			}
+		]
+	},
+	"long": {
+		"title": "these are long",
+		"sounds": [
+			{
+				"thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4qE_br98bR5Yda-wCjs_hQ-rd5kdpDdaQ-S3dlK8HzSDjP0y",
+				"sound": "iconic/community-intro"
+			},
+			{
+				"thumb": "http://www.jurassicworld.com/sites/default/files/2018-05/960x540_0011_blue.png",
+				"sound": "iconic/a73db5_Velociraptor_Scream_Sound_Effect"
+			},
+			{
+				"thumb": "https://vignette.wikia.nocookie.net/phobia/images/8/82/Milk2.jpg/revision/latest?cb=20170124115645",
+				"sound": "iconic/he-needs-some-milk-vine"
+			},
+			{
+				"thumb": "https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/GettyImages-912840664_uoudnj/dj-khaled-ciroc-studios-la.jpg",
+				"sound": "iconic/mlg-airhorn"
 			}
 		]
 	}
