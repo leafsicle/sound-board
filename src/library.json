@@ -17,6 +17,79 @@
 			{
 				"thumb": "https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/GettyImages-912840664_uoudnj/dj-khaled-ciroc-studios-la.jpg",
 				"sound": "iconic/mlg-airhorn"
+			},
+			{
+				"thumb": "https://d50m6q67g4bn3.cloudfront.net/teams_avatars/e87fd69c-2d7c-40f7-9a0b-9630a0be8856_1464475698800",
+				"sound": "iconic/community-intro"
+			},
+			{
+				"thumb": "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/screen_shot_2015-04-06_at_10.02.05_am.png?itok=09Zowl54&resize=1100x1100",
+				"sound": "iconic/boomshakalaka"
+			},
+			{
+				"thumb": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2013/10/AnchormanGb110412.jpg",
+				"sound": "Spencer/Deep Burn"
+			},
+
+			{
+				"thumb": "https://cdn.traileraddict.com/vidquad/universal-pictures/bourne/1.jpg",
+				"sound": "Spencer/bourne"
+			},
+
+			{
+				"thumb": "",
+				"sound": "Spencer/john-cena_5"
+			},
+
+			{
+				"thumb": "",
+				"sound": "Spencer/killin_me"
+			},
+
+			{
+				"thumb": "",
+				"sound": "Spencer/liljon-what2"
+			},
+
+			{
+				"thumb": "",
+				"sound": "Spencer/mk"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/airhorn"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/raptor"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/snoop"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/surprisemf"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/jsparrow"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/"
+			},
+			{
+				"thumb": "",
+				"sound": "Spencer/"
 			}
 		]
 	},
@@ -28,12 +101,12 @@
 				"sound": "iconic/boxing-bell"
 			},
 			{
-				"thumb": "https://ih0.redbubble.net/image.519180141.3757/flat,550x550,075,f.u3.jpg",
-				"sound": "iconic/DGKS"
+				"thumb": "http://98441.cdx.c.ooyala.com/owY2xnczq8NYWPm4D2Xbm9WXvrooIeJh/promo252042638",
+				"sound": "iconic/rimshot"
 			},
 			{
-				"thumb": "https://sc02.alicdn.com/kf/HTB1gQsBysuYBuNkSmRy763A3pXa6/Hot-Sale-Plush-Toys-Avocado-Stuffed-Toy.png",
-				"sound": "iconic/fresh-avocado-vine"
+				"thumb": "https://ih0.redbubble.net/image.519180141.3757/flat,550x550,075,f.u3.jpg",
+				"sound": "iconic/MGS"
 			},
 			{
 				"thumb": "https://i2-prod.coventrytelegraph.net/incoming/article7599239.ece/ALTERNATES/s615/Good-Morning-Vietnam-robin-williams-30953057-2336-2560.jpg",
@@ -48,14 +121,9 @@
 				"sound": "iconic/it-doesnt-matter-what-you-think-0m-02s"
 			},
 			{
-				"thumb": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2015/02/celebrity-jeopardy-snl-40-will-ferrell.jpg",
-				"sound": "iconic/jeopardy"
-			},
-			{
 				"thumb": "https://s22928.pcdn.co/wp-content/uploads/2018/01/Kobe-Bryant-2.jpg",
 				"sound": "iconic/kobe"
 			},
-
 			{
 				"thumb": "https://i.redd.it/u55nxzils6py.png",
 				"sound": "iconic/null-you_must_construct_additional_pylons"
@@ -77,16 +145,8 @@
 				"sound": "iconic/Roadrunner  beepbeep"
 			},
 			{
-				"thumb": "https://i3.ytimg.com/vi/PTZ4L6cNNC4/mqdefault.jpg",
-				"sound": "iconic/run-vine-sound-effect"
-			},
-			{
 				"thumb": "https://seeklogo.com/images/S/skype-logo-F4A7960445-seeklogo.com.png",
 				"sound": "iconic/skype"
-			},
-			{
-				"thumb": "https://orig00.deviantart.net/d49e/f/2012/143/9/3/936232d4b090086aa5f5a74f4eba5d04-d50w40k.png",
-				"sound": "iconic/thanksgivingrap"
 			},
 			{
 				"thumb": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/26/08/jurassic-world-jeff-goldblum.jpg?w968",
@@ -124,6 +184,26 @@
 			{
 				"thumb": "https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/GettyImages-912840664_uoudnj/dj-khaled-ciroc-studios-la.jpg",
 				"sound": "iconic/mlg-airhorn"
+			},
+			{
+				"thumb": "https://sc02.alicdn.com/kf/HTB1gQsBysuYBuNkSmRy763A3pXa6/Hot-Sale-Plush-Toys-Avocado-Stuffed-Toy.png",
+				"sound": "iconic/fresh-avocado-vine"
+			},
+			{
+				"thumb": "https://orig00.deviantart.net/d49e/f/2012/143/9/3/936232d4b090086aa5f5a74f4eba5d04-d50w40k.png",
+				"sound": "iconic/thanksgivingrap"
+			},
+			{
+				"thumb": "https://i3.ytimg.com/vi/PTZ4L6cNNC4/mqdefault.jpg",
+				"sound": "iconic/run-vine-sound-effect"
+			},
+			{
+				"thumb": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2015/02/celebrity-jeopardy-snl-40-will-ferrell.jpg",
+				"sound": "iconic/jeopardy"
+			},
+			{
+				"thumb": "https://sc02.alicdn.com/kf/HTB1gQsBysuYBuNkSmRy763A3pXa6/Hot-Sale-Plush-Toys-Avocado-Stuffed-Toy.png",
+				"sound": "iconic/fresh-avocado-vine"
 			}
 		]
 	}
