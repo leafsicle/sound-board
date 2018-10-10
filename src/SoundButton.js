@@ -20,6 +20,13 @@ class SoundButton extends Component {
 				onClick={this.playSound}
 				style={{ backgroundImage: `url(${this.props.thumb})` }}
 			>
+				<button
+					class="push--flat"
+					className="sound-button"
+					onClick={this.playSound}
+					style={{ backgroundImage: `url(${this.props.thumb})` }}
+				/>
+
 				<audio preload="true" ref={this.audioRef}>
 					<source src={`/sounds/${this.props.sound}.mp3`} type="audio/mp3" />
 				</audio>
