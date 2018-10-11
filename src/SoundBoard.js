@@ -7,7 +7,9 @@ class SoundBoard extends Component {
 		const lib = library[this.props.match.params.name]
 		return (
 			<>
-				<h2>{lib.title}</h2>
+				<h2>
+					<stron>{lib.title}</stron>
+				</h2>
 				<div className="sound-board">
 					{lib.sounds.map(s => (
 						<SoundButton key={s.sound} thumb={s.thumb} sound={s.sound} />
