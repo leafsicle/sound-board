@@ -3,10 +3,6 @@
 		"title": "Spencer's Noises",
 		"sounds": [
 			{
-				"thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4qE_br98bR5Yda-wCjs_hQ-rd5kdpDdaQ-S3dlK8HzSDjP0y",
-				"sound": "iconic/community-intro"
-			},
-			{
 				"thumb": "https://vignette.wikia.nocookie.net/phobia/images/8/82/Milk2.jpg/revision/latest?cb=20170124115645",
 				"sound": "iconic/he-needs-some-milk-vine"
 			},
@@ -31,7 +27,10 @@
 				"thumb": "https://cdn.traileraddict.com/vidquad/universal-pictures/bourne/1.jpg",
 				"sound": "Spencer/bourne"
 			},
-
+			{
+				"thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4qE_br98bR5Yda-wCjs_hQ-rd5kdpDdaQ-S3dlK8HzSDjP0y",
+				"sound": "iconic/community-intro"
+			},
 			{
 				"thumb": "https://shop.wwe.com/on/demandware.static/-/Sites-wwe-us-navigation/default/dw2a6de264/images/superstar-thumb-300/john-cena-2017.jpg",
 				"sound": "Spencer/john-cena_5"
