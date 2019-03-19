@@ -8,7 +8,7 @@ class SoundBoard extends Component {
 		return (
 			<>
 				<h2>
-					<stron>{lib.title}</stron>
+					<strong>{lib.title}</strong>
 				</h2>
 				<div className="sound-board">
 					{lib.sounds.map(s => (
